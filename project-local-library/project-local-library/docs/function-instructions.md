@@ -43,6 +43,8 @@ The `getBooksPossessedByAccount` function in `public/src/accounts.js` has three 
 
 It returns an array of books and authors that represents all books _currently checked out_ by the given account. _Look carefully at the object below,_ as it's not just the book object; the author object is embedded inside of it.
 
+---
+
 ### Book functions
 
 ![image.png](//res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/9012c8115fddba330e4958c3a907bcaa-image.png)
